@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lat2-BloodShare</string>
+    <string-array name="array_spinner">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="array_spinner_reshus">
+        <item>Reshus</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="array_spinner_job">
+        <item>Job</item>
+        <item>Student</item>
+        <item>Worker</item>
+        <item>College Student</item>
+        <item>Freelance</item>
+    </string-array>
+</resources>
